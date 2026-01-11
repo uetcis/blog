@@ -3,7 +3,7 @@
 ## .i stedu fa la'elu
 .ui vitke lo snukarni be fi la .uetcis. li'u
 ## about
-I am a second year undergraduate student learning Computer Science, Linguistics, and Philosophy at UCLA.
+I am a fourth year undergraduate student learning Computer Science, Linguistics, and Philosophy at UCLA.
 
 Some of the names I use:
 - Weiqi [weɪt͡ɕʰi]

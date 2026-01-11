@@ -4,11 +4,11 @@
 .ui vitke lo snukarni be fi la .uetcis. li'u
 
 ## about
-I am a third year undergraduate student at UCLA majoring in Philosophy B.A. and Linguistics&Computer Science B.A.
+I am a fourth year undergraduate student at UCLA majoring in Philosophy B.A. and Linguistics&Computer Science B.A.
 
 Some of the names I use:
-- Weiqi [weɪt͡ɕʰi]
-- la .uetcis. [la wɛʧis]
+- Weiqi /weɪt͡ɕʰi/
+- la .uetcis. /la wɛʧis/
 ## identity
 My [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) public key fingerprint is:
 > C4AA CAB9 6B45 6074 1258 C814 FA69 96F5 4282 CD6E
